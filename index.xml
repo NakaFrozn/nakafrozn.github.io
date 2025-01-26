@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhonghan Xie 谢仲寒</title>
-    <link>//localhost:1313/</link>
+    <link>https://nakafrozn.github.io/</link>
     <description>Recent content on Zhonghan Xie 谢仲寒</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jan 2025 17:45:51 -0500</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://nakafrozn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SI649 Data Visualization Homework</title>
-      <link>//localhost:1313/posts/datawishw/datavishw/</link>
+      <link>https://nakafrozn.github.io/posts/datawishw/datavishw/</link>
       <pubDate>Sun, 26 Jan 2025 17:45:51 -0500</pubDate>
-      <guid>//localhost:1313/posts/datawishw/datavishw/</guid>
-      <description>&lt;p&gt;This is my replicated graphs for SI649 Data Visualization Homework.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/bechdel_test_over_time.png&#34; alt=&#34;Graph1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/replicate_pic2.png&#34; alt=&#34;Graph2&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://nakafrozn.github.io/posts/datawishw/datavishw/</guid>
+      <description>&lt;p&gt;This is my replicated graphs for SI649 Data Visualization Homework.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://nakafrozn.github.io/images/bechdel_test_over_time.png&#34; alt=&#34;Graph1&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://nakafrozn.github.io/images/replicate_pic2.png&#34; alt=&#34;Graph2&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome to my blog</title>
-      <link>//localhost:1313/posts/first-post/</link>
+      <link>https://nakafrozn.github.io/posts/first-post/</link>
       <pubDate>Sun, 26 Jan 2025 17:42:31 -0500</pubDate>
-      <guid>//localhost:1313/posts/first-post/</guid>
+      <guid>https://nakafrozn.github.io/posts/first-post/</guid>
       <description>&lt;h2 id=&#34;welcome-to-my-blog&#34;&gt;Welcome to my blog&lt;/h2&gt;&#xA;&lt;p&gt;I am still building my personal site. Please check back later!&lt;/p&gt;</description>
     </item>
   </channel>
