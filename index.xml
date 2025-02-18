@@ -13,7 +13,7 @@
       <link>https://nakafrozn.github.io/posts/datavis-altair/datavis-altair/</link>
       <pubDate>Mon, 17 Feb 2025 23:56:39 -0500</pubDate>
       <guid>https://nakafrozn.github.io/posts/datavis-altair/datavis-altair/</guid>
-      <description>&lt;p&gt;I created my altair theme based on the Economist style guide. I twisted a little bit their color palette and the font style. I used the Google font Noto Sans instead. The following bar chart is what I recreate the first graph based on my theme.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://nakafrozn.github.io/images/rating_chart.html&#34; width=&#34;800&#34; height=&#34;600&#34;&gt;&lt;/iframe&gt;</description>
+      <description>&lt;p&gt;I created my altair theme based on the Economist style guide. I twisted a little bit their color palette and the font style. I used the Google font Noto Sans instead. The following bar chart is what I recreate the first graph based on my theme.&lt;/p&gt;&#xA;&lt;p&gt;P.S. The font need some time to load. If you refresh the page, you will see the correct font style.&lt;/p&gt;&#xA;&lt;iframe src=&#34;https://nakafrozn.github.io/images/rating_chart.html&#34; width=&#34;800&#34; height=&#34;600&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
       <title>SI649 Data Visualization Homework</title>
